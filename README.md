@@ -8,29 +8,29 @@ Rails - 7.0.8
 
 **How to run the project**
 
-- Install gems with bundle install and start the server with rails server , then go to the browser to see the applicatiom
+- Install gems with 'bundle install' and start the server with 'rails server' , then go to the browser to see the running application
 
 **How to run unit tests**
 
-- Navigate to the project folder - bundle exec rspec will run the test suite
+- Navigate to the project folder - 'bundle exec rspec' command will run the test suite
 
 **Completed Work**
 
-- Basic requirements of entering a key word and getting the results is covered,
+- Basic requirements of entering a key word and getting results is covered.
 
-* Pagination add for better user experience
+* Pagination added for better user experience.
 
-- With a click on each result user will be navigated to the relvant github repo
+- With a click on each result, user will be navigated to the relvant github repository.
 
 * Caching introduced to improve performance
 
-- unit tests are written for all the files except for one controller
+- unit tests are written for all the files except for one controller.
 
 **Pending Work**
 
-- Completing the unit test for GitHub Repository Controller
+- Completing the unit test for GitHub Repository Controller.
 
 **Further Improvements**
 
-- User authentication can be added to the system with a search histroy
-- Searching can be improved with autocomplete
+- User authentication can be added to the system with a search histroy.
+- Searching can be improved with autocomplete.
